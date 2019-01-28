@@ -14,7 +14,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     url = "/about/"
 
 [params]
-    description = "Coin as oracle."
+    description = "Money in retrospect"
     showtitle = false
 
     # options for highlight.js (version, additional languages, and theme)

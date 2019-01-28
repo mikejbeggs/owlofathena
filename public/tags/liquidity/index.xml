@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Owl of Athena</title>
-    <link>/</link>
-    <description>Recent content on Owl of Athena</description>
+    <title>Liquidity on Owl of Athena</title>
+    <link>/tags/liquidity/</link>
+    <description>Recent content in Liquidity on Owl of Athena</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 28 Jan 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/liquidity/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -20,15 +20,6 @@
       <description>liquidity, n.: Econ. The interchangeability of assets and money. ⊕Oxford English Dictionary, 2 ed. (1989).
   You don’t anywhere come right out in the open and say what liquidity is. ⊕Joan Robinson (1935) Letter to John Maynard Keynes.
   a highly complex phenomenon. Its concrete manifestation is powerfully affected by changes in financial institutions and practices, which have been occurring with extraordinary rapidity in recent decades. It calls for analysis both at the microeconomic and the macroeconomic level, with unusually strong dangers of committing fallacies of composition.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>/about/</link>
-      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
-      
-      <guid>/about/</guid>
-      <description>This is a &amp;ldquo;hello world&amp;rdquo; example website for the blogdown package. The theme was forked from @jrutheiser/hugo-lithium-theme and modified by Yihui Xie.</description>
     </item>
     
   </channel>

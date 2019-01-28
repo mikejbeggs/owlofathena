@@ -5,6 +5,7 @@ date: '2019-01-28'
 slug: liquidity-a-keyword-in-the-history-of-capitalism-introduction
 categories: []
 tags: [liquidity]
+excerpt: "Economist: Well, the Committee doesn’t actually define liquidity anywhere, Socrates…"
 ---
 >_liquidity, n.: Econ._ The interchangeability of assets and money. `r tufte::margin_note("_Oxford English Dictionary_, 2 ed. (1989).")`
 

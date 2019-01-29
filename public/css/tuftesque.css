@@ -359,7 +359,7 @@ blockquote footer {
 }
 
 ol, ul { 
-  width: 87.5%;
+  width: 60%;
   -webkit-padding-start: 5%;
   -webkit-padding-end: 5%; 
 }

@@ -36,7 +36,7 @@ The riddle of ‘liquidity’ is posed by the social relationships it refers to.
 
 Williams wrote of
 
->a process quite central in the development of a language when, in certain words, tones and rhythms, meanings are offered, felt for, tested, confirmed, asserted, qualified, changed. In some situations this is a very slow process indeed; it needs the passage of centuries to show itself actively, by results, at anything like its full weight. In other situations the process can be rapid, especially in certain key areas.`r tufte::margin_note("Wililams (1983), p. 12.")`
+>a process quite central in the development of a language when, in certain words, tones and rhythms, meanings are offered, felt for, tested, confirmed, asserted, qualified, changed. In some situations this is a very slow process indeed; it needs the passage of centuries to show itself actively, by results, at anything like its full weight. In other situations the process can be rapid, especially in certain key areas.`r tufte::margin_note("Williams (1983), p. 12.")`
 
 ‘Liquidity’ is one of these latter words. The story is largely a twentieth century one, though it continues to the present and has ancestor concepts stretching further back. Like Williams, I treat it as an indicator, a useful way in to understanding social change. The word both reflects that change and is part of the change—it has been used as part of attempts to pick out, describe, explain and intervene in real social relationships and processes:
 

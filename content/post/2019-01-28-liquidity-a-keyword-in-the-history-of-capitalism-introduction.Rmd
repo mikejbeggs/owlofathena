@@ -32,7 +32,7 @@ But people clearly kept hearing the riddle nonetheless, because ‘liquidity’ 
 >It was just a difficult word, a word I could think of as an example of the change which we were trying, in various ways, to understand.`r tufte::margin_note("Raymond Williams (2 ed., 1983) _Keywords: a vocabulary of culture and society_, p. 13.")`
 
 
-The riddle of ‘liquidity’ is posed by the social relationships it refers to. It is tricky in part because what it refers to is difficult to understand, and in part because the relations it refers to are evolving all the time. My hunch is that ‘liquidity’ is one of those words Raymond Williams discussed in Keywords, whose evolution and problems tell us something about the evolution and problems of capitalism itself.
+The riddle of ‘liquidity’ is posed by the social relationships it refers to. It is tricky in part because what it refers to is difficult to understand, and in part because the relations it refers to are evolving all the time. My hunch is that ‘liquidity’ is one of those words Raymond Williams discussed in _Keywords_, whose evolution and problems tell us something about the evolution and problems of capitalism itself.
 
 Williams wrote of
 

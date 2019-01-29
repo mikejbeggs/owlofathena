@@ -6,10 +6,22 @@
     <description>Recent content on Owl of Athena</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Money in retrospect.
+Michael Beggs is a Senior Lecturer in Political Economy at the University of Sydney.
+Colophon
+For complex historical reasons this site is produced with bookdown, built by Hugo, using the Tuftesque theme based on the typographic style of Edward Tufte.</description>
+    </item>
     
     <item>
       <title>‘Liquidity’, a keyword in the history of capitalism: Introduction</title>
@@ -41,15 +53,6 @@ Side Notes: We all know why you’re here: the sidenotes. This is rather easy. J
       <guid>/2016/12/30/a-plain-markdown-post/</guid>
       <description>This is a post written in plain Markdown (*.md) instead of R Markdown (*.Rmd). The major differences are:
  You cannot run any R code in a plain Markdown document, whereas in an R Markdown document, you can embed R code chunks (```{r}); A plain Markdown post is rendered through Blackfriday, and an R Markdown document is compiled by rmarkdown and Pandoc.  There are many differences in syntax between Blackfriday&amp;rsquo;s Markdown and Pandoc&amp;rsquo;s Markdown.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>/about/</link>
-      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
-      
-      <guid>/about/</guid>
-      <description>Michael Beggs is a Senior Lecturer in Political Economy at the University of Sydney.</description>
     </item>
     
     <item>

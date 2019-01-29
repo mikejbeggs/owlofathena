@@ -1,0 +1,12 @@
+---
+title: About
+author: 'Michael Beggs'
+date: '2019-01-29'
+---
+Money in retrospect.
+
+Michael Beggs is a Senior Lecturer in Political Economy at the University of Sydney.
+
+**Colophon**
+
+For complex historical reasons this site is produced with [bookdown](https://bookdown.org/yihui/blogdown/), built by [Hugo](https://gohugo.io), using the [Tuftesque](https://github.com/nstrayer/tuftesque) theme based on the typographic style of [Edward Tufte](https://www.edwardtufte.com/tufte/).
